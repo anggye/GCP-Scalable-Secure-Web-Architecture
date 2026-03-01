@@ -1,3 +1,6 @@
+
+![Alt text for the image](https://example.com/image.png)
+
 This project demonstrates how to design and deploy a scalable and secure web architecture on Google Cloud Platform (GCP) using Managed Instance Groups (MIG), Autoscaling policies, IAM role management, and firewall configurations.
 The architecture ensures that the application can automatically handle traffic spikes while maintaining strong security controls. 
 A Managed Instance Group creates identical virtual machines from an Instance Template, and an Autoscaler dynamically adjusts the number of instances based on CPU utilization (target 50–60%). 
