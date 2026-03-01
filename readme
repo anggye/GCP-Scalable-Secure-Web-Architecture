@@ -1,4 +1,4 @@
-![alt text](https://github.com/anggye/GCP-Scalable-Secure-Web-Architecture/blob/main/Screenshot%202026-03-01%20230943.jpg)
+![alt text](Screenshot 2026-03-01 230943.jpg)
 
 This project demonstrates how to design and deploy a scalable and secure web architecture on Google Cloud Platform (GCP) using Managed Instance Groups (MIG), Autoscaling policies, IAM role management, and firewall configurations.
 The architecture ensures that the application can automatically handle traffic spikes while maintaining strong security controls. 
